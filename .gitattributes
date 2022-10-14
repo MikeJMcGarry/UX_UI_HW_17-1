@@ -1,2 +1,65 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+<head>
+	<meta charset="UTF-8">
+
+<meta name="csrf-token" content="85f163c5-8f3e-463f-aa80-c17c080acd97">
+<meta name="google-analytics-id" content="UA-69935771-28">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/favicon/manifest.json">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#2b5797">
+    <link rel="shortcut icon" href="/favicon/favicon.ico">
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/x-icon" href="/favicon/favicon.ico">
+
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N24X7V9');</script>
+    <!-- End Google Tag Manager -->
+	<link rel="stylesheet" href="/dist/styles-49d28486cc6a243d058019fe6dd31e41.css">
+	<link rel="stylesheet" href="/dist/case-study-view-f886c540319051a384535ddc26e57117.css">
+	<link rel="stylesheet" href="/dist/case-study-editor-1a1be058648c5c8833c530a876cca645.css">
+	<title>UXfolio - Portfolio Editor</title>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N24X7V9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	<main>
+		<div id="collectionEditorApp"></div>
+	</main>
+
+    <script src="/dist/bundle-4793cbfa85b62f8857480ad052ce4645.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/gdpr/css/style.css" />
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script src="/gdpr/js/templates.js"></script>
+<script src="/gdpr/js/script.js"></script>
+<script src="/gdpr/langs/en.js"></script>
+
+<button id="gdpr-settings-button" style="display: none;" class="gdpr-cookie-notice-settings-button">GDPR</button>
+
+<script type="text/javascript">
+    gdprCookieNotice({
+        locale: 'en', //This is the default value
+        timeout: 500, //Time until the cookie bar appears
+        expiration: 365, //This is the default value, in days
+        domain: '.uxfol.io', //If you run the same cookie notice on all subdomains, define the main domain starting with a .
+        implicit: true, //Accept cookies on page scroll automatically
+        statement: '/privacy-policy', //Link to your cookie statement page
+        performance: ['JSESSIONID'], //Cookies in the performance category.
+        analytics: ['ga'], //Cookies in the analytics category.
+        marketing: ['SSID'] //Cookies in the marketing category.
+    });
+</script>
+</body>
+</html>
