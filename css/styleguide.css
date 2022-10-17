@@ -1,0 +1,71 @@
+:root { 
+  --black: #000000;
+  --dark: #21243d;
+  --light: #8594a3;
+  --primary: #ff6464;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 22px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 44px;
+ 
+  --font-family-heebo: "Heebo", Helvetica;
+}
+.heebo-normal-ebony-clay-16px {
+  color: var(--dark);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.heebo-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.heebo-medium-ebony-clay-30px {
+  color: var(--dark);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.heebo-normal-regent-gray-20px {
+  color: var(--light);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.heebo-normal-ebony-clay-20px {
+  color: var(--dark);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.heebo-bold-ebony-clay-44px {
+  color: var(--dark);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.heebo-bold-ebony-clay-30px {
+  color: var(--dark);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}

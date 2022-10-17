@@ -1,0 +1,204 @@
+/* screen - home */
+
+.home {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 75px;
+  height: 2041px;
+  padding: 26px 92px;
+  width: 1152px;
+}
+
+.home .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 110px;
+  height: 318px;
+  margin-left: 3.0px;
+  min-width: 857px;
+}
+
+.home .hi-i-am-mike-im-a {
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-top: 19.0px;
+  min-height: 271px;
+  width: 504px;
+}
+
+.home .span1 {
+  color: var(--dark);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+}
+
+.home .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  min-height: 318px;
+  width: 243px;
+}
+
+.home .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  height: 43px;
+  min-width: 150px;
+}
+
+.home .works {
+  letter-spacing: 0;
+  min-height: 43px;
+  text-align: right;
+  width: 57px;
+}
+
+.home .place {
+  letter-spacing: 0;
+  min-height: 43px;
+  text-align: right;
+  width: 71px;
+}
+
+.home .ellipse-1 {
+  height: 243px;
+  object-fit: cover;
+  width: 243px;
+}
+
+.home .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 990px;
+  width: 858px;
+}
+
+.home .overlap-group {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--primary);
+  border-radius: 2px;
+  display: flex;
+  height: 47px;
+  justify-content: flex-end;
+  margin-left: 66px;
+  min-width: 208px;
+  padding: 12px 20px;
+}
+
+.home .download-resume {
+  color: var(--white);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 21px;
+  width: 167px;
+}
+
+.home .featured-works {
+  align-self: flex-start;
+  color: var(--dark);
+  font-family: var(--font-family-heebo);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-left: 2px;
+  margin-top: 171px;
+  min-height: 60px;
+  white-space: nowrap;
+}
+
+.home .work-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 235.0px;
+  margin-top: 11px;
+  min-height: 44px;
+  min-width: 95px;
+}
+
+.home .overlap-group1 {
+  height: 93px;
+  margin-top: 30px;
+  position: relative;
+  width: 594px;
+}
+
+.home .vector-2 {
+  height: 21px;
+  left: 384px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.home .amet-minim-mollit-no {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 594px;
+}
+
+.home .vector-8 {
+  height: 1px;
+  margin-top: 40px;
+  width: 858px;
+}
+
+.home .work-2 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 235.0px;
+  margin-top: 27px;
+  min-height: 44px;
+  min-width: 95px;
+}
+
+.home .amet-minim-mollit-no-1 {
+  letter-spacing: 0;
+  margin-top: 63px;
+  min-height: 93px;
+  width: 594px;
+}
+
+.home .vector-12 {
+  height: 1px;
+  margin-top: 18px;
+  width: 858px;
+}
+
+.home .work-3 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 235.0px;
+  margin-top: 29px;
+  min-height: 44px;
+  min-width: 95px;
+}
+
+.home .amet-minim-mollit-no-2 {
+  letter-spacing: 0;
+  margin-right: 81px;
+  margin-top: 17px;
+  min-height: 93px;
+  width: 507px;
+}
+
+.home .vector-13 {
+  height: 1px;
+  margin-top: 62px;
+  width: 858px;
+}
